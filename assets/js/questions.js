@@ -3,14 +3,14 @@ var quizQuestions = [
     //question 1
     {
     question: "Commonly used data types DO NOT include: ", 
-    answer: ["Strings", "Booleans", "Alerts", "Numbers"],
+    answer: ["1. Strings", "2. Booleans", "3. Alerts", "4. Numbers"],
     correctAnswerIndex: 2,
     },
 
     //question 2
     {
     question: "Which of the following keywords is used to define a variable in Javascript?",
-    answer: ["var", "let", "Both A and B", "None of the above"],
+    answer: ["1.var", "2. let", "3. Both A and B", "4. None of the above"],
     correctAnswerIndex: 2,
     },
 
@@ -31,14 +31,14 @@ var quizQuestions = [
     //question 5
     {
     question: "String values must be enclosed within _____ when being assigned to variables.", 
-    answer: ["Commas", "Curly brackets", "Quotes", "Parentheses"],
+    answer: ["1. Commas", "2. Curly brackets", "3. Quotes", "4. Parentheses"],
     correctAnswerIndex: 2,
     },
 
     //question 6
     {
     question: "Which function is used to serialize an object into a JSON string in Javascript?",
-    answers: ["stringify()", "parse()", "convert()", "None of the above"],
+    answers: ["1. stringify()", "2. parse()", "3.convert()", "4. None of the above"],
     correctAnswer: "stringify()",
     }
 
